@@ -13,6 +13,8 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app! Mama" />
         <p className="description">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<div id="video"></div>
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
